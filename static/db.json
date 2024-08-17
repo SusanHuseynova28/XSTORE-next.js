@@ -1,0 +1,51 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "title": "Flow Painting #05",
+            "price": "฿0,004450",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image1-min-600x600.jpg" 
+        },
+        {
+            "id": 2,
+            "title": "Jumping Mushroom",
+            "price": "฿0,005202",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image2-min-400x400.jpg" 
+        },
+        {
+            "id": 3,
+            "title": "DrifterShoots Out",
+            "price": "฿0,003952",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image3-min-400x400.jpg" 
+        },
+        {
+            "id": 4,
+            "title": "CryptoPunk Bucket",
+            "price": "฿0,009908",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image4-min-400x400.jpg" 
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Abstract",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/abstract.jpg" 
+        },
+        {
+            "id": 2,
+            "name": "Colorful",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/colorful.jpg" 
+        },
+        {
+            "id": 3,
+            "name": "Creative",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/creative.jpg" 
+        },
+        {
+            "id": 4,
+            "name": "Digital Art",
+            "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/digital-art.jpg" 
+        }
+       
+    ]
+}
