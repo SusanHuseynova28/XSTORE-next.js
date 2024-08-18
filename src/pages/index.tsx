@@ -1,13 +1,15 @@
 import React from 'react';
-import Header from '../components/Header';
+import Header from '@/features/Header';
 import CardSection from '../components/CardSection';
+import Footer from '@/features/Footer';
 
 
 const HomePage: React.FC = () => {
     return (
         <div>
             <Header />           
-            <CardSection />       
+            <CardSection />  
+            <Footer/>     
         </div>
     );
 }

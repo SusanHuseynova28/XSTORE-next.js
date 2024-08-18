@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home: React.FC = () => {
     return (
-        <div className="container mx-auto py-8">
+        <div className="container ">
             <section>
                 <h1 className="text-white font-bold text-4xl mb-4">Welcome to Crypto XStore</h1>
                 <p className="text-gray-400 text-lg">
